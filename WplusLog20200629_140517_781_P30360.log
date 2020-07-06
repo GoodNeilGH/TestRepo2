@@ -1,0 +1,12 @@
+Millisecs Thr ClntID TmDiff Lvl: Message [File(Line)]
+--------- --- ----------- ------ ---- --------------------
+000001657 65A0 WPlus            0 Brf: ------------------------------------------------------------------------------------------  [protocol_analyzer_proxy.cpp(620)]
+000002026 65A0 WPlus          369 Brf: Load Network Traffic Analyzers:  [protocol_analyzer_proxy.cpp(625)]
+000002030 65A0 WPlus            4 Brf:     Analyzer Module: WPLUS (value=)  [protocol_analyzer_proxy.cpp(670)]
+000002034 65A0 WPlus            4 Brf:     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)  [protocol_analyzer_proxy.cpp(670)]
+000002034 65A0 WPlus            0 Brf:     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!  [protocol_analyzer_proxy.cpp(703)]
+000002036 65A0 WPlus            2 Brf:     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll  [protocol_analyzer_proxy.cpp(767)]
+000002039 65A0 WPlus            3 Brf:     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)  [protocol_analyzer_proxy.cpp(670)]
+000002077 65A0 WPlus           38 Brf:     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!  [protocol_analyzer_proxy.cpp(703)]
+000002081 65A0 WPlus            4 Brf:     Analyzer Module: local_server (value=)  [protocol_analyzer_proxy.cpp(670)]
+000002083 65A0 WPlus            2 Brf: ------------------------------------------------------------------------------------------  [protocol_analyzer_proxy.cpp(798)]

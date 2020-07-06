@@ -1,0 +1,10 @@
+GET http://gorgon.youdao.com/gorgon/request.s?s=%3D%3DAM98kTfNUSHFUTmITOwcTZkZWNiVWZ1ATN%0A%0DyQjMDBVPklGZ1ZCM9Q3YkZSM9Q3YmATNhZGZiJWNwYjYhVTMwYmN2MWOwkjYjJjMxEmM0QDN9QWa&ydet=2 HTTP/1.1
+Accept: */*
+User-Agent: YNote
+Host: gorgon.youdao.com
+Connection: Keep-Alive
+Pragma: no-cache
+X-P2P-PeerDist: Version=1.1
+X-P2P-PeerDistEx: MinContentInformation=1.0, MaxContentInformation=1.0
+Accept-Encoding: peerdist
+

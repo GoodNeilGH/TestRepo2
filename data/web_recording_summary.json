@@ -1,0 +1,160 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-p2p-peerdistex",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-p2p-peerdist",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-id",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "pragma",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 4,
+    "RecordedBrowser": "c:\\program files (x86)\\micro focus\\loadrunner\\bin\\hp.lr.sazparser.exe",
+    "RecordingDate": "Jun-29-2020",
+    "RecordingDuration": 984,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1593410714,
+    "RecordingType": "Application",
+    "TotalBytesReceived": 171774,
+    "TotalBytesSent": 2942,
+    "TotalRequests": 4,
+    "UserAgent": "Ydrive client"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "youdao.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "123.58.182.253",
+          "IncludeInScript": true,
+          "Name": "notify3.note.youdao.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 0,
+              "EventId": 36,
+              "HttpStatus": 401,
+              "Size": 0,
+              "URL": "http://notify3.note.youdao.com/pushserver3/client?ClientVer=60900040000&GUID=PC242505eeb5fde7092&app=ydrive&cl=desktop&client_ver=60900040000&cto=600000&device_id=PC242505eeb5fde7092&device_name=CNYINNI01&device_type=PC&did=PC242505eeb5fde7092&keyfrom=pc&lp=1592969517942&os=Windows&os_ver=Windows%2010&pv=1&subvendor=&vendor=website&vendornew=website&ver=0"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "103.72.47.243",
+          "IncludeInScript": true,
+          "Name": "log.yex.youdao.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 0,
+              "EventId": 56,
+              "HttpStatus": 200,
+              "Size": 37,
+              "URL": "http://log.yex.youdao.com/it?yexi=2154c7ed90003e9d3e1cecedb04614d6&yexcb=dN28fzMmoX87oW_Vmuv0Bsqh51AmR16IuVmaSDFv2zD75Cr16-LGDb1HYZXg2UAnE8fnQVbAs4-7VKl84VPrZU1uX_MBt3NwjPlNJFtqBjCJt5y31zQJtyW4EVj96-CgdDZcvu1iAYCN9MK8TAArZxXSs6xztL2oxn_z-x04GB2kHqccOchSHukTMBGTC9McTuRvWOFSm25qFjiXooodtwsYkMIrr7mLU0tcORwi4Mxbqs6tM6Jg6F9SI5Q3eEdQuBvdXPFQhu8JrnfqtMhBSg&yext=Kz4LFU_dEfQfAcA4u59tbybro4WyH_adHxx9fVrV1wBiVkF4qrzyLs9X-DmHRJcv8d0JVI2qBUWbBDiwRPPXxi_cyybD2ov7XIKYKcdxy4uaMuAA3Cc03JXPeSCjuu4dp4OHYSqaQI9uL-iy_avgTNwALl0HPXp4wPtyy7hIi4fUHWnUR1joHBmdBPfIIGAHgvOvPSJ3n7h3m4WYHpDaQKTbO57IzXbFVhvqMNDPMbJNS8hPZojc_HlTtxtqmH06we1XxewGVK92JaCTkWJUv45Eu-Dh0OWEWOmDzvhZ6JWRDdoL-SB-GY3URXTGLGHVt5A-iTm6N-3nFD4WBc4X2Bk9NnvSacZKsCt_d7f2qqrdeyUuEdVhVKTuNSA_-WybfyPTAipv16G0ugnKH3PnKYNxoo3mw0O8BjTksGld_EtiRxqrxi7lMNY5ydSskIF8kVeUH5okiF9sO2G7V2XWvXOgEBvs95foNs1KiKUCbYrPMiAhmz-jZvTewIcc35gTtgDDSpPz6henFJZcHEMSRc7nsNxuRX2GPQSrFIcBplhURbTrbHfqo4s5AFNbEja8ojUTowJOFoM59HzkfY6LVeyZTkw86-Jjjz98U6Hc1XtxmPYkBZDab3_XZMc5NJru35UkmnU86gj3bO4MJeaqhA&yexv=0&iid=%7B%226765010721196479494%22%3A4%7D&sid=2710&tid=20"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "103.72.47.246",
+          "IncludeInScript": true,
+          "Name": "gorgon.youdao.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 43,
+              "HttpStatus": 200,
+              "Size": 5489,
+              "URL": "http://gorgon.youdao.com/gorgon/request.s?s=%3D%3DAM98kTfNUSHFUTmITOwcTZkZWNiVWZ1ATN%0A%0DyQjMDBVPklGZ1ZCM9Q3YkZSM9Q3YmATNhZGZiJWNwYjYhVTMwYmN2MWOwkjYjJjMxEmM0QDN9QWa&ydet=2"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "ydstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "163.171.217.16",
+          "IncludeInScript": true,
+          "Name": "oimagec3.ydstatic.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 0,
+              "EventId": 53,
+              "HttpStatus": 200,
+              "Size": 166248,
+              "URL": "http://oimagec3.ydstatic.com/image?id=6765010721196479494&product=adpublish&sc=0&rm=2&gsb=0&gsbd=60"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

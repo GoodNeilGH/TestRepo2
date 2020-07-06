@@ -1,0 +1,13 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2020/06/29 06:05:14
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2020/06/30 15:02:39
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2020/06/30 15:05:00
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2020/06/30 15:07:14
+StartRecordingIsDst_4=0
+[Security]
+UsingPersistForAuthentication=1
+[User-Agent]
+User-Agent=Ydrive client
